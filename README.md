@@ -34,7 +34,7 @@ This repository includes a clock example that demonstrates how to use the ESP32-
      ```
 
 4. **Code Upload**:
-   - Open the `4_3_0_Inch_Display_Fully_Working.ino` file in the Arduino IDE.
+   - Open the `ESP32-4827S043R_Clock.ino` file in the Arduino IDE.
    - Select the correct board and port from the `Tools` menu.
    - Upload the code to the ESP32-4827S043R.
 
