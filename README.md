@@ -1,5 +1,7 @@
 # [Order an ESP32-4827S043R](https://s.click.aliexpress.com/e/_DB48igB "Order an ESP32-4827S043R")
 
+![Clock Example](https://github.com/NorthernGadgets/ESP32-4827S043R_Clock/blob/main/Photo.jpg?raw=true)
+
 ## Clock Example
 
 This repository includes a clock example that demonstrates how to use the ESP32-4827S043R to create a simple digital clock. This example utilizes the screen management functions to display the current time on the 4.3-inch display.
