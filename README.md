@@ -1,6 +1,6 @@
 # [Order an ESP32-4827S043R](https://s.click.aliexpress.com/e/_DB48igB "Order an ESP32-4827S043R")
 
-![Clock Example](https://github.com/NorthernGadgets/ESP32-4827S043R_Clock/blob/main/Photo.jpg?raw=true)
+![Clock Example](https://github.com/NorthernGadgets/ESP32-4827S043R_Clock/blob/main/PhotoExample.jpg?raw=true)
 
 ## Clock Example
 
