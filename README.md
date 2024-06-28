@@ -37,10 +37,14 @@ This repository includes a clock example that demonstrates how to use the ESP32-
    - Open the `ESP32-4827S043R_Clock.ino` file in the Arduino IDE.
    - Select the correct board and port from the `Tools` menu.
    - Upload the code to the ESP32-4827S043R.
+  
+     ![Correct Setup](https://github.com/NorthernGadgets/ESP32-4827S043R/blob/main/setup.png?raw=true)
 
 ### Usage
 
 Once the code is uploaded and the Wi-Fi and time settings are configured, the display will show the current time in HH:MM format. The time will update every second.
+
+
 
 ## About the ESP32-4827S043R
 
